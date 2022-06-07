@@ -5,9 +5,7 @@
 👨‍🎓 Currently learning:
 - HTML
 - CSS
-
-🌱 Want to learn:
-- JavaScript
+- JS
 
 📧 Contact:
 - Discord: Gray770#8113
